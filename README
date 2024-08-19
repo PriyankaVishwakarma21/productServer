@@ -1,0 +1,16 @@
+# Project Setup
+
+This project was created using **Node.js version 20.6.1**.
+
+# Environment Variables
+
+Create a `.env` file in the root directory of your project and add the following variables:
+
+dotenv
+PORT=your_port_number
+MONGODB_URL=your_mongodb_connection_string
+ACCESS_TOKEN_SECRET=your_access_token_secret
+
+# start Project
+1. npm i
+2. npm start
